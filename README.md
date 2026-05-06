@@ -47,7 +47,7 @@
 ### Middle+ Unity Developer  
 [**Two Headed Shark**](https://twoheadedshark.com/) | Май 2026 — настоящее время
 
-Пока в процессе:)
+Работаю:)
 
 ### Middle+ Unity Developer  
 [**Softintermob LLC**](https://softintermob.com/) | Август 2024 — Март 2026
