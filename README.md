@@ -45,11 +45,6 @@
 ## 💼 Опыт работы
 
 ### Middle+ Unity Developer  
-[**Two Headed Shark**](https://twoheadedshark.com/) | Май 2026 — настоящее время
-
-Работаю:)
-
-### Middle+ Unity Developer  
 [**Softintermob LLC**](https://softintermob.com/) | Август 2024 — Март 2026
 
 - Участвовал в полном цикле разработки более 15 мобильных проектов (iOS/Android), обеспечив стабильную работу и высокие оценки пользователей.
